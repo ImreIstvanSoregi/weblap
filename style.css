@@ -1,0 +1,25 @@
+body{margin: 0;}
+
+#fejléc{
+    font-size: 35px;
+    color: lightblue;
+    height:60px;
+    background-image: linear-gradient(lightcoral,blue);
+    line-height: 60px;
+}
+#logo{
+    height:35px;
+    margin-top: 5px;
+}
+#bejelentkezes{
+    color: lightblue;
+    float: right;
+    background-image: linear-gradient(lightcoral,blue);
+}
+#fejléc a{
+    margin: 0px 10px;
+}
+#szoveg1{
+    margin: 5px;
+    font-size: 3rem;
+}
